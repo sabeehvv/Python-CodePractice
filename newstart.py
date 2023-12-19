@@ -1,0 +1,6 @@
+print("Hello let's start programing")
+print("hello")
+a = input()
+print(a)
+name = str(input())
+print(name)
